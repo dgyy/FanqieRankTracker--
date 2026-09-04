@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-03",
-  "prev_date": "2026-09-02",
+  "date": "2026-09-04",
+  "prev_date": "2026-09-03",
   "types": [
     {
       "type": "all",
@@ -11,7 +11,7 @@
     {
       "type": "古风世情",
       "url": "api/lastest/%E5%8F%A4%E9%A3%8E%E4%B8%96%E6%83%85.json",
-      "book_count": 19
+      "book_count": 20
     },
     {
       "type": "科幻末世",
@@ -76,7 +76,7 @@
     {
       "type": "星光璀璨",
       "url": "api/lastest/%E6%98%9F%E5%85%89%E7%92%80%E7%92%A8.json",
-      "book_count": 20
+      "book_count": 19
     },
     {
       "type": "女频悬疑",
