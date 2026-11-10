@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-09",
-  "prev_date": "2026-11-08",
+  "date": "2026-11-10",
+  "prev_date": "2026-11-09",
   "types": [
     {
       "type": "all",
       "url": "api/lastest/all.json",
       "category_count": 18,
-      "book_count": 340
+      "book_count": 360
     },
     {
       "type": "古风世情",
@@ -66,12 +66,12 @@
     {
       "type": "快穿",
       "url": "api/lastest/%E5%BF%AB%E7%A9%BF.json",
-      "book_count": 10
+      "book_count": 20
     },
     {
       "type": "青春甜宠",
       "url": "api/lastest/%E9%9D%92%E6%98%A5%E7%94%9C%E5%AE%A0.json",
-      "book_count": 10
+      "book_count": 20
     },
     {
       "type": "星光璀璨",
